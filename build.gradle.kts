@@ -29,7 +29,7 @@ typewriter {
         name = "TypingWithLux"
         shortDescription = "LuxDialogues in typewriter"
         description = "TypingWithLux is a simplistic extension that allows to interact with lux's api for dialogues and cinematics"
-        engineVersion = "0.9.0-beta-167"
+        engineVersion = "0.9.0-beta-171"
         channel = com.typewritermc.moduleplugin.ReleaseChannel.BETA
 
         paper {
